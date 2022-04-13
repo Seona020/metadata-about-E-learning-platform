@@ -30,7 +30,7 @@
 > '[Do it! 데이터 분석을 위한 판다스 입문](https://book.naver.com/bookdb/book_detail.nhn?bid=14038455)' 교재 등을 활용 예정 
 - **6월** : 데이터 플랫폼 비교 분석 및 구축
 - **8월** : 논문 작성
-- **11월** : DAU AI SW 창의융합 DevDay 출전
+- **11월** : DAU AI SW 창의융합 DevDay 출전 하기 싫어요 ㅠㅠ 
 
 ## 5. 참고자료
 - **[e-Learning Contents의 표준화 현황 및 방안 연구 : 기업교육에서 e-learning contents의 metadata를 중심으로, 2001](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=8c6c13386b1950c5&keyword=metadata%20e-learning)**
